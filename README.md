@@ -1,4 +1,6 @@
-#🛒 CartSmart
+
+
+# CartSmart🛒
 
 ## Overview
 CartSmart is a Market Basket Analysis project that leverages the Apriori algorithm to uncover associations between items purchased together in transactional data. By analyzing shopping patterns, CartSmart provides valuable insights for optimizing product placement, marketing strategies, and inventory management.
